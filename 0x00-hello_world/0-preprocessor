@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 gcc -E $CFILE -o ./c
 =======
 gcc -E $CFILE -oc
 >>>>>>> a5e0565127b5b0fb11bbc7a973b6610bdf1bbc42
+=======
+gcc -E $CFILE -o ./c
+>>>>>>> 95db19679566047db4a1c46b169572c515f70cf4
